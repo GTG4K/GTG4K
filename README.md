@@ -30,5 +30,5 @@
 
 ### <a href="http://aeedz.epizy.com/home"> Twitter clone website <img align="left" alt="Laravel" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /><img align="left" alt="js" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img align="left" alt="sass" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />  </a> 
 
-# Frontend Mentor
+# 🎓 Frontend Mentor
 for more projects take a look at my <a href="https://www.frontendmentor.io/profile/GTG4K"> Frontend Mentor profile </a>
