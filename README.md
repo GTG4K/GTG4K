@@ -20,7 +20,7 @@
 <br />
 
 ## 🚀 Here are some of my favorite personal projects!
-###  <a href="https://tarkhnaecommerce.netlify.app/"> Audiophile e-commerce Website <img align="left" alt="vue" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></a> 
+###  <a href="https://tarkhnaecommerce.netlify.app/"> e-commerce Website <img align="left" alt="vue" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></a> 
 
 ### <a href="https://tarkhnakanban.netlify.app/"> Kanban task manager <img align="left" alt="vue" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></a> 
 
