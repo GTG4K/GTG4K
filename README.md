@@ -1,4 +1,4 @@
-# 😋 Giorgi Tarkhnishvili 
+# Hello 👋 I'm Giorgi Tarkhnishvili 😋 
 
 - 👨🏼‍🎓 I'm a student from Georgia, currently Interested in Web-development, especially on the Front-end. 
 - ✨ I've made multiple Front-end projects with the Vanilla HTML, CSS and JS approach, as well as the Vue.js Framework.
