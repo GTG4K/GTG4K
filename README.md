@@ -2,7 +2,7 @@
 
 - 👨🏼‍🎓 I'm a student from Georgia, currently Interested in Web-development, especially on the Front-end. 
 - ✨ I've made multiple Front-end projects with the Vanilla HTML, CSS and JS approach, as well as the Vue.js Framework.
-- 🖥 Additionally I've worked on some Back-end projects using the python and php languages.
+- 🖥 Additionally I've worked on some Back-end projects using the python, C# and php languages.
 
 ## ⚙ Languages and Tools I've worked with
 <img align="left" alt="html" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
