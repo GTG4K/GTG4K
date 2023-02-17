@@ -1,7 +1,7 @@
 # Hello 👋 I'm Giorgi Tarkhnishvili 😋 
 
 - 👨🏼‍🎓 I'm a student from Georgia, currently Interested in Web-development, especially on the Front-end. 
-- ✨ I've made multiple Front-end projects with the Vanilla HTML, CSS and JS approach, as well as the Vue.js Framework.
+- ✨ I've made multiple Front-end projects with the Vanilla HTML, CSS and JS approach, as well as React and Vue.js Frameworks.
 - 🖥 Additionally I've worked on some Back-end projects using the python, C# and php languages.
 
 ## ⚙ Languages and Tools I've worked with
@@ -10,6 +10,7 @@
 <img align="left" alt="sass" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />  
 <img align="left" alt="js" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="vue" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="react" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="node" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />        
 
 <img align="left" alt="PHP" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
