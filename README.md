@@ -25,7 +25,7 @@
 
 ### <a href="https://tarkhnakanban.netlify.app/"> Kanban task manager <img align="left" alt="vue" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></a> 
 
-### <a href="https://tarkhnamsf.netlify.app/new/info"> Multi-Step-Form <img align="left" alt="vue" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></a> 
+### <a href="https://tarkhnamsf.netlify.app/"> Multi-Step-Form <img align="left" alt="vue" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></a> 
 
 ### <a href="https://tarkhnacountries.netlify.app/"> Countries API <img align="left" alt="vue" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></a> 
 
