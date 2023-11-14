@@ -34,6 +34,3 @@
 
 # 🎓 Frontend Mentor
 for more projects take a look at my <a href="https://www.frontendmentor.io/profile/GTG4K"> Frontend Mentor profile </a>
-
-# My github progress
-[![Tarkhna's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtg4k)](https://github.com/GTG4K/github-readme-stats)
