@@ -2,7 +2,7 @@
 
 - 👨🏼‍🎓 I'm a student from Georgia, currently Interested in Web-development, especially on the Front-end. 
 - ✨ I've made multiple Front-end projects with the Vanilla HTML, CSS and JS approach, as well as React and Vue.js Frameworks.
-- 🖥 Additionally I've worked on Back-end projects, Mostly with the PHP LARAVEL and .NET frameworks 
+- 🖥 Additionally I've worked on Back-end projects, Mostly with the PHP LARAVEL and Node.js
 
 ## ⚙ Languages and Tools I've worked with
 <img align="left" alt="html" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
